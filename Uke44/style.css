@@ -1,0 +1,25 @@
+.container {
+display: flex;
+justify-content: center;
+gap: 10px;
+align-items: center;
+flex-direction: column;
+}
+
+.test1{
+    text-align: center;
+    flex: 1;
+}
+.test2{
+    text-align: center;
+    flex: 2;
+}
+.elem1{
+   background-color: blue;
+}
+.elem2{
+    flex: 7;
+}
+.elem3{
+    background-color: brown;
+}
